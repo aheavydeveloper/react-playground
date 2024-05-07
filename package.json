@@ -1,0 +1,22 @@
+{
+  "name": "react-playgground",
+  "version": "1.0.0",
+  "description": "Na",
+  "main": "index.js",
+  "scripts": {
+    "test": "jedis"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aheavydeveloper/react-playground.git"
+  },
+  "keywords": [
+    "NA"
+  ],
+  "author": "janmejaya",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aheavydeveloper/react-playground/issues"
+  },
+  "homepage": "https://github.com/aheavydeveloper/react-playground#readme"
+}
